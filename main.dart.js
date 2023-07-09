@@ -54401,7 +54401,7 @@ A.A9.prototype={
 S(a){return new A.rH(new A.Rv(A.aW(a).p3),B.xE,!0,!0,B.EB,null)}}
 A.Rv.prototype={
 $2(a,b){var s=A.ae6(B.T,B.BS),r=this.a,q=A.agK(r),p=A.ej().$1$textStyle(r.z)
-return new A.kC(b,"Flutter Demo",A.a89(null,s,q.Si(A.ej().$1$textStyle(r.y),p,A.ej().$1$textStyle(r.Q)),!0),null)},
+return new A.kC(b,"Harsh P Joshi",A.a89(null,s,q.Si(A.ej().$1$textStyle(r.y),p,A.ej().$1$textStyle(r.Q)),!0),null)},
 $S:346}
 A.pT.prototype={
 aq(){return new A.Fo(B.p)}}
